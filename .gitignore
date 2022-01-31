@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+*.dat
+*.xml
+*.h5
+*.png
+*.jpeg
+*.jpg
+*.mp4
+*.JPG
+*.JPEG
+*.HEIC
+.DS_Store
